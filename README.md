@@ -13,7 +13,7 @@
 <hr>
 <div>
  <a href="https://github.com/larisn">
- <img width="40%" src="https://github-readme-stats.vercel.app/api?username=larisn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img width="38%" src="https://github-readme-stats.vercel.app/api?username=larisn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larisn&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 
