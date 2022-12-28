@@ -1,4 +1,4 @@
-### Oie! Me chamo Larissa! 🪷
+### Oii! Me chamo Larissa! 🪷
 <hr><img align="right" width="150" src="https://i.picasion.com/pic92/3e99b7587b018f1ac21098987b5dba59.gif"/>
 <div style="display: inline_block"><br>
 📚 - Estudante de Engenharia de Software na UniCesumar <br>
