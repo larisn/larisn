@@ -1,4 +1,4 @@
-### Oii! Me chamo Larissa! 🪷
+### Olá! Me chamo Larissa! 🪷
 <hr><img align="right" width="150" src="https://i.picasion.com/pic92/3e99b7587b018f1ac21098987b5dba59.gif"/>
 <div style="display: inline_block"><br>
 📚 - Estudante de Engenharia de Software na UniCesumar <br>
@@ -13,8 +13,8 @@
 <hr>
 <div>
  <a href="https://github.com/larisn">
- <img width="38%" src="https://github-readme-stats.vercel.app/api?username=larisn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larisn&layout=compact&langs_count=7&theme=dracula"/>
+ <img width="42%" src="https://github-readme-stats.vercel.app/api?username=larisn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larisn&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
