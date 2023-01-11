@@ -1,9 +1,11 @@
 ### Oii, me chamo Larissa! 🌸
-<hr><img align="right" width="150" src="https://i.picasion.com/pic92/3e99b7587b018f1ac21098987b5dba59.gif"/>
+<hr><img align="right" width="140" src="https://i.picasion.com/pic92/3e99b7587b018f1ac21098987b5dba59.gif"/>
 <div style="display: inline_block">
 📚 - Estudante de Engenharia de Software na UniCesumar <br>
 🎮 - Nas horas vagas, jogo alguns joguinhos online
-
+<br>
+  
+  
 </div>
 
 <div style="display: inline_block"><br>
