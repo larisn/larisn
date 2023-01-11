@@ -4,7 +4,6 @@
 📚 - Estudante de Engenharia de Software na UniCesumar <br>
 🎮 - Nas horas vagas, jogo alguns joguinhos online
 <br>
-
 </div>
 
 <div style="display: inline_block"><br>
