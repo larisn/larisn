@@ -3,8 +3,8 @@
 <div style="display: inline_block"><br>
 📚 - Estudante de Engenharia de Software na UniCesumar <br>
 🎮 - Nas horas vagas, jogo alguns joguinhos online
-wfewf
-  
+<br>
+
 </div>
 
 <div style="display: inline_block"><br>
