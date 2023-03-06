@@ -1,5 +1,5 @@
 ### Oii, me chamo Larissa! 🌸
-<hr><img align="right" width="150" src="https://i.picasion.com/pic92/3e99b7587b018f1ac21098987b5dba59.gif"/>
+<hr><img align="right" width="150" src="https://i.picasion.com/pic92/a9df64949dc12bbbec11c2bfeed67af0.gif"/> 
 <div style="display: inline_block">
   
 📚 - Estudante de Engenharia de Software na UniCesumar <br>
