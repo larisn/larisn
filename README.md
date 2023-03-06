@@ -1,5 +1,5 @@
 ### Hello, world! ☕️
-<hr><img align="right" width="150" src="https://i.picasion.com/pic92/a9df64949dc12bbbec11c2bfeed67af0.gif"/> 
+<hr><img align="right" width="150" src="https://i.picasion.com/pic92/303eb8345dace09a13389fa7e8d1c6c1.gif"/> 
 <div style="display: inline_block">
   
 📚 - Estudante de Engenharia de Software na UniCesumar <br>
@@ -10,7 +10,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <a href="https://www.instagram.com/lawiizinha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lawiizinha/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="border-radius: 5px;"></a>
   <a href="https://twitter.com/lawizinha" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larisn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:contatolarisn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
