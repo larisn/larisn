@@ -2,8 +2,7 @@
 <img align="right" width="150" src="https://i.picasion.com/pic92/303eb8345dace09a13389fa7e8d1c6c1.gif"/> 
 <div style="display: inline_block">
   
-📚 - Estudante de Engenharia de Software na UniCesumar <br>
-🎮 - Nas horas vagas, jogo alguns joguinhos online
+Me chamo Larissa, tenho 19 anos e atualmente estou estudando Engenharia de Software na UniCesumar. <br> Quando eu não estiver estudando, provavelmente estarei jogando
 <br>
   
   
