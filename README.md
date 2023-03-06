@@ -2,7 +2,7 @@
 <img align="right" width="150" src="https://i.picasion.com/pic92/303eb8345dace09a13389fa7e8d1c6c1.gif"/> 
 <div style="display: inline_block">
   
-Me chamo Larissa, tenho 20 anos e atualmente estou estudando Engenharia de Software na UniCesumar. <br> Quando eu não estiver estudando, provavelmente estarei jogando :)
+Me chamo Larissa, tenho 20 anos e atualmente estou estudando Engenharia de Software na UniCesumar. <br> Se não me encontrar estudando, provavelmente estarei jogando :)
 <br>
   
   
