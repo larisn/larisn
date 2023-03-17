@@ -9,11 +9,11 @@ Me chamo Larissa, tenho 20 anos e atualmente estou cursando Engenharia de Softwa
 </div>
 
 <div style="display: inline_block"><br>
-  <a href="https://www.instagram.com/larisncode/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%201.png" target="_blank"></a>
-  <a href="https://twitter.com/larisncode" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%202.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/larisn/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%203.png" target="_blank"></a>
-  <a href="mailto:contatolarisn@gmail.com" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%204.png" target="_blank"></a>
-  <a href="https://contate.me/larisn" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%205.png" target="_blank"></a>
+  <a href="https://www.instagram.com/larisncode/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Group%202.png" target="_blank"></a>
+  <a href="https://twitter.com/larisncode" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Group%201.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/larisn/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Group%203.png" target="_blank"></a>
+  <a href="mailto:contatolarisn@gmail.com" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Group%204.png" target="_blank"></a>
+  <a href="https://contate.me/larisn" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Group%206.png" target="_blank"></a>
 </div>
 <hr>
 <div>
