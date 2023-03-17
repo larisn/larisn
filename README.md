@@ -9,17 +9,17 @@ Me chamo Larissa, tenho 20 anos e atualmente estou cursando Engenharia de Softwa
 </div>
 
 <div style="display: inline_block"><br>
-  <a href="https://www.instagram.com/larisncode/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%201.png" target="_blank"></a>
-  <a href="https://twitter.com/larisncode" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%202.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/larisn/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%203.png" target="_blank"></a>
-  <a href="mailto:contatolarisn@gmail.com" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%204.png" target="_blank"></a>
-  <a href="https://contate.me/larisn" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%205.png" target="_blank"></a>
+  <a href="https://www.instagram.com/larisncode/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Group%202.png" target="_blank"></a>
+  <a href="https://twitter.com/larisncode" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Group%201.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/larisn/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Group%203.png" target="_blank"></a>
+  <a href="mailto:contatolarisn@gmail.com" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Group%204.png" target="_blank"></a>
+  <a href="https://contate.me/larisn" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Group%206.png" target="_blank"></a>
 </div>
 <hr>
 <div>
  <a href="https://github.com/larisn">
  <img width="52%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=larisn&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
- <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=larisn&layout=compact&langs_count=7&theme=material-palenight"/>
+ <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=larisn&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div> 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
