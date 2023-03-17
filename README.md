@@ -17,8 +17,8 @@ Me chamo Larissa, tenho 20 anos e atualmente estou cursando Engenharia de Softwa
 <hr>
 <div>
  <a href="https://github.com/larisn">
- <img width="52%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=larisn&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
- <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=larisn&layout=compact&langs_count=7&theme=nord"/>
+ <img width="52%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=larisn&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+ <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=larisn&layout=compact&langs_count=7&theme=material-palenight"/>
 </div> 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
