@@ -12,8 +12,8 @@ Me chamo Larissa, tenho 20 anos e atualmente estou cursando Engenharia de Softwa
   <a href="https://www.instagram.com/larisncode/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%206.png" target="_blank"></a>
   <a href="https://twitter.com/larisncode" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%207.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larisn/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%208.png" target="_blank"></a>
-  <a href="mailto:contatolarisn@gmail.com" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%209.png" target="_blank"></a>
   <a href="https://contate.me/larisn" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%2010.png" target="_blank"></a>
+  <a href="mailto:contatolarisn@gmail.com" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%209.png" target="_blank"></a>
 </div>
 <hr>
 <div>
