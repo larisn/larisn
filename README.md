@@ -5,6 +5,7 @@
 Me chamo Larissa, tenho 20 anos e atualmente estou cursando Engenharia de Software na UniCesumar. <br> Se não me encontrar estudando, provavelmente estarei jogando :)
 <br>
 
+</div>
 
 <div style="display: inline_block"><br>
   <a href="https://www.instagram.com/larisncode/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%206.png" target="_blank"></a>
