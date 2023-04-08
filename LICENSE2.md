@@ -1,3 +1,3 @@
 💡 Licença MIT 2023 - larisn
 
-A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste arquivo, Sem restrição nos direitos de usar, copiar, modificar, mesclar e distribuir.
+É uma licença de software livre e de código aberto que permite o uso, cópia, modificação, distribuição e vendas do software, desde que inclua uma cópia da licença e do aviso de direitos autorais em todas as cópias e modificações do software. 
