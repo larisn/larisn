@@ -1,3 +1,3 @@
 💡 Copyright © 2023 - larisn
 
-A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste arquivo, com restrição de publicar como seu repositório. Porém, sem restrição nos direitos de usar, copiar, modificar e mesclar.
+A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste arquivo, porém não é permitido copiar, distribuir ou modificar o projeto sem a permissão do detentor dos direitos autorais e publicar como seu repositório.
