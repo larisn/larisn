@@ -15,8 +15,4 @@ Me chamo Larissa e tenho 20 anos, atualmente estou cursando Engenharia de Softwa
   <a href="mailto:contatolarisn@gmail.com" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%2014.svg" target="_blank"></a>
 </div>
 <hr>
-<div>
- <a href="https://github.com/larisn">
- <img width="52%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=larisn&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
- <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=larisn&layout=compact&langs_count=7&theme="nord"/>
 </div> 
