@@ -14,5 +14,4 @@ Me chamo Larissa e tenho 20 anos, atualmente estou cursando Engenharia de Softwa
   <a href="https://contate.me/larisn" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%2013.svg" target="_blank"></a>
   <a href="mailto:contatolarisn@gmail.com" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%2014.svg" target="_blank"></a>
 </div>
-<hr>
-</div> 
+
