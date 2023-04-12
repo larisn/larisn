@@ -2,7 +2,7 @@
 <img align="right" width="150" src="https://i.picasion.com/pic92/3bf9b7171516b81bdc8501875aa7c57c.gif"/> 
 
 <div style="display: inline_block">
-  Me chamo Larissa e tenho 20 anos, atualmente estou cursando Engenharia de Software e estudando Front-end / UX/UI Design. Se não me encontrar estudando, provavelmente     estarei jogando :)
+  Me chamo Larissa e tenho 20 anos, atualmente estou cursando Engenharia de Software e estudando Front-end, UX/UI Design. Se não me encontrar estudando, provavelmente     estarei jogando :)
   <br>
 </div>
 
