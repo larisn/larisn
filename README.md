@@ -9,7 +9,7 @@
 
 <h3>Outros conteúdos: </h3>
 <div style="display: inline_block">
-  <a href="https://www.instagram.com/larisncode/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%206.png" target="_blank"></a>
+  <a href="https://www.instagram.com/larisn.dev/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%206.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larisn/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%208.png" target="_blank"></a>
   <a href="https://contate.me/larisn" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%2010.png" target="_blank"></a>
   <a href="mailto:contatolarisn@gmail.com" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%209.png" target="_blank"></a>
