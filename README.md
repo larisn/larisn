@@ -16,7 +16,7 @@
 </div>
 <br>
 
-<h3>Você também pode acessar minha bio por aqui: </h3>
+<h4>Você também pode acessar minha bio por aqui: </h4>
 <div>
   <a href="https://bio-larisn.vercel.app/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%2016.png" target="_blank"></a>
 </div>
