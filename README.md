@@ -1,4 +1,4 @@
-<h2>hello, world! ❄️</h2>
+<h2>welcome :) </h2>
 <img align="right" width="150" src="https://i.picasion.com/pic92/3bf9b7171516b81bdc8501875aa7c57c.gif"/> 
 
 <div style="display: inline_block">
