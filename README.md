@@ -19,7 +19,7 @@
 
 <p>Você também pode acessar minha bio por aqui: </p>
 <div>
-  <a href="https://bio-larisn.vercel.app/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icons/bio.png" target="_blank"></a>
+  <a href="https://bio-larisn.vercel.app/"><img src="https://github.com/larisn/larisn/blob/main/icons/bio.png" target="_blank"></a>
 </div>
 
 
