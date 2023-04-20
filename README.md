@@ -9,17 +9,17 @@
 
 <h3>Outros conteúdos: </h3>
 <div style="display: inline_block">
-  <a href="https://www.instagram.com/larisn.dev/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%206.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/larisn/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%208.png" target="_blank"></a>
-  <a href="https://contate.me/larisn" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%2010.png" target="_blank"></a>
-  <a href="mailto:contatolarisn@gmail.com" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%209.png" target="_blank"></a>
+  <a href="https://www.instagram.com/larisn.dev/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icons/instagram.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/larisn/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icons/linkedin.png" target="_blank"></a>
+  <a href="https://contate.me/larisn" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icons/whatsapp.png" target="_blank"></a>
+  <a href="mailto:contatolarisn@gmail.com" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icons/email.png" target="_blank"></a>
 </div>
 <br>
 <br>
 
 <p>Você também pode acessar minha bio por aqui: </p>
 <div>
-  <a href="https://bio-larisn.vercel.app/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%2016.png" target="_blank"></a>
+  <a href="https://bio-larisn.vercel.app/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icons/bio.png" target="_blank"></a>
 </div>
 
 
