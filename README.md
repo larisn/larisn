@@ -15,6 +15,7 @@
   <a href="mailto:contatolarisn@gmail.com" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%209.png" target="_blank"></a>
 </div>
 <br>
+<br>
 
 <p>Você também pode acessar minha bio por aqui: </p>
 <div>
