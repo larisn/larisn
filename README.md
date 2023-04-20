@@ -14,4 +14,12 @@
   <a href="https://contate.me/larisn" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%2010.png" target="_blank"></a>
   <a href="mailto:contatolarisn@gmail.com" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%209.png" target="_blank"></a>
 </div>
+<br>
+<br>
+
+<p>Você também pode acessar minha bio por aqui: </p>
+<div>
+  <a href="https://bio-larisn.vercel.app/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%2016.png" target="_blank"></a>
+</div>
+
 
