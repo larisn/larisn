@@ -1,25 +1,25 @@
-<h2>hello, world! <img src="https://github.com/larisn/larisn/blob/main/icones/icons8-butterfly-45.png" style="width: 30px", transform="translateY(-10px)"> </h2>
+<h2>welcome :) </h2>
 <img align="right" width="150" src="https://i.picasion.com/pic92/dc5c5106475d9e2855d26de9d40a029e.gif"/> 
+
 <div style="display: inline_block">
-  
-Me chamo Larissa, tenho 20 anos e atualmente estou cursando Engenharia de Software na UniCesumar. <br> Se não me encontrar estudando, provavelmente estarei jogando :)
+  Me chamo Larissa e tenho 20 anos, atualmente estou cursando Engenharia de Software e estudando Front-end, UX/UI Design. Se não me encontrar estudando, provavelmente     estarei jogando 🤭
+  <br>
+</div>
 <br>
-  
-  
-</div>
 
-<div style="display: inline_block"><br>
-  <a href="https://www.instagram.com/larisncode/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%206.png" target="_blank"></a>
-  <a href="https://twitter.com/larisncode" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%207.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/larisn/" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%208.png" target="_blank"></a>
-  <a href="https://contate.me/larisn" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%2010.png" target="_blank"></a>
-  <a href="mailto:contatolarisn@gmail.com" target="_blank"><img src="https://github.com/larisn/larisn/blob/main/icones/Frame%209.png" target="_blank"></a>
+<h3>Redes Sociais: </h3>
+<div style="display: inline_block">
+  <a href="https://www.instagram.com/larisn.dev/"><img src="https://github.com/larisn/larisn/blob/main/icons/instagram.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/larisn/"><img src="https://github.com/larisn/larisn/blob/main/icons/linkedin.png" target="_blank"></a>
+  <a href="https://contate.me/larisn"><img src="https://github.com/larisn/larisn/blob/main/icons/whatsapp.png" target="_blank"></a>
+  <a href="mailto:contatolarisn@gmail.com"><img src="https://github.com/larisn/larisn/blob/main/icons/email.png" target="_blank"></a>
 </div>
-<hr>
+<br>
+<br>
+
+<p>Você também pode acessar minha bio por aqui: </p>
 <div>
- <a href="https://github.com/larisn">
- <img width="52%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=larisn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=larisn&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
+  <a href="https://bio-larisn.vercel.app/"><img src="https://github.com/larisn/larisn/blob/main/icons/bio.png" target="_blank"></a>
+</div>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
