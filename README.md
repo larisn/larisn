@@ -11,7 +11,6 @@
 <div style="display: inline_block">
   <a href="https://www.instagram.com/larisn.dev/"><img src="https://github.com/larisn/larisn/blob/main/icons/instagram.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larisn/"><img src="https://github.com/larisn/larisn/blob/main/icons/linkedin.png" target="_blank"></a>
-  <a href="https://contate.me/larisn"><img src="https://github.com/larisn/larisn/blob/main/icons/whatsapp.png" target="_blank"></a>
   <a href="mailto:contato@larisn.com"><img src="https://github.com/larisn/larisn/blob/main/icons/email.png" target="_blank"></a>
 </div>
 <br>
