@@ -9,7 +9,7 @@
 <br>
 
 <div style="display: inline_block">
-  Me chamo Larissa Santos (ou “larisn” para facilitar) tenho 20 anos e atualmente sou estudante de desenvolvimento Front-end, Engenharia de Software e UX/UI Design. 
+  Me chamo Larissa Santos (ou “larisn” para facilitar) tenho 20 anos e atualmente desenvolvedora Front-end, estudante de Engenharia de Software e UX/UI Designer. 
   <br>
   <br>
   
