@@ -13,7 +13,7 @@
   <br>
   <br>
   
-  Por um acaso acabei descobrindo que é exatamente isso que eu quero fazer, nem vejo o tempo passar. 💗
+  Por um acaso acabei descobrindo que é exatamente isso que eu quero, nem vejo o tempo passar. 💗
 </div>
 <br>
 
