@@ -9,11 +9,11 @@
 <br>
 
 <div style="display: inline_block">
-  Me chamo Larissa Santos tenho 21 anos e atualmente trabalho como desenvolvedora Front-end e curso Engenharia de Software.
+  Me chamo Larissa Santos tenho 21 anos e atualmente trabalho como desenvolvedora Front-end e curso Engenharia de Software desde 2023.
   <br>
   <br>
   
-  Por um acaso acabei descobrindo que é exatamente isso que eu quero, nem vejo o tempo passar. 💛
+  Por um acaso acabei descobrindo que nasci pra fazer isso. 💛
 </div>
 <br>
 
