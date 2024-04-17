@@ -1,5 +1,5 @@
 <h2>welcome :) </h2>
-<img align="right" width="150" src="https://media1.tenor.com/m/29Ok5pc0ivAAAAAd/gatinho-gato.gif"/> 
+<img align="right" width="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/> 
 <p>Front-end Developer</p>
 <div style="display: inline_block">
   <a href="https://www.instagram.com/larisn.code/"><img src="https://github.com/larisn/larisn/blob/main/icons/Frame 17.png" target="_blank"></a>
