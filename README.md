@@ -1,6 +1,6 @@
 <h2>welcome :) </h2>
 <img align="right" width="150" src="https://i.picasion.com/pic92/dc5c5106475d9e2855d26de9d40a029e.gif"/> 
-<p>Front-end Developer & Software Engineering</p>
+<p>Front-end Developer</p>
 <div style="display: inline_block">
   <a href="https://www.instagram.com/larisn.dev/"><img src="https://github.com/larisn/larisn/blob/main/icons/instagram.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larisn/"><img src="https://github.com/larisn/larisn/blob/main/icons/linkedin.png" target="_blank"></a>
@@ -9,7 +9,7 @@
 <br>
 
 <div style="display: inline_block">
-  Me chamo Larissa Santos (ou “larisn” para facilitar) tenho 20 anos e atualmente sou desenvolvedora Front-end, estudante de Engenharia de Software e UX/UI Designer. 
+  Me chamo Larissa Santos tenho 21 anos e atualmente trabalho como desenvolvedora Front-end e curso Engenharia de Software.
   <br>
   <br>
   
