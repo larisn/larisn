@@ -9,7 +9,7 @@
 <br>
 
 <div style="display: inline_block">
-  My name is Larissa Santos and I'm 21 years old. I'm currently studying Software Engineering and have been working as a Front-end developer since 2023.
+  My name is Larissa Santos and I'm 21 years old. I'm currently studying Software Engineering and have been working as a Frontend developer since 2023.
   <br>
   <br>
   
