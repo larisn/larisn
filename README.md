@@ -1,7 +1,7 @@
 ## welcome, my name is Larissa :)
 HTML | CSS | JavaScript | React | TypeScript | Next.js | Tailwind | Styled Components | Sass | Radix | Git | Figma |
 UX/UI
-<img align="right" width="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/> 
+
 - 👩🏻‍💻 Frontend Developer & UX/UI Designer @[CET Logistics](https://www.cet-logistics.com/)
 - 🎓 Bachelor's degree in Software Engineering
 - ✨ By chance I ended up discovering that I was born to do this
