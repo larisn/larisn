@@ -1,7 +1,7 @@
 ## welcome, my name is Larissa :)
 React | TypeScript | Next.js | Tailwind | Styled Components | Sass | Radix | MERN | UX/UI
 
-- 👩🏻‍💻 Software Developer & UX/UI Designer
+- 👩🏻‍💻 Software Developer & Product Designer
 - 🎓 Bachelor's degree in Software Engineering
 
 <div style="display: inline_block">
